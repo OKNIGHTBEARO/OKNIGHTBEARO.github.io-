@@ -12,10 +12,10 @@
         <ul>
             <li><a href="https://www.youtube.com/@bearooknight2224/featured">分枝一:Youtube Channel❤️</a></li>
             <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-self-introduction/">分枝二:關於我🐧</a></li>
-            <li><a href="#">分枝三:Discord</a></li>
-            <li><a href="#">分枝四:Discord</a></li>
-            <li><a href="#">分枝五:Discord</a></li>
-            <li><a href="#">分枝六:Discord</a></li>
+            <li><a href="#">分枝三:</a></li>
+            <li><a href="#">分枝四:</a></li>
+            <li><a href="#">分枝五:</a></li>
+            <li><a href="#">分枝六:</a></li>
         </ul>
     </nav>
 
@@ -27,7 +27,7 @@
         </article>
 
         <article>
-            <h2>Another Blog Post Title</h2>
+            <h2>修建中</h2>
             <p>文</p>
             <p>文</p>
         </article>
