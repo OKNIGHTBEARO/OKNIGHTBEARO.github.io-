@@ -10,8 +10,8 @@
 
     <nav>
         <ul>
-            <li><a href="https://www.youtube.com/@bearooknight2224/featured">分枝一:Youtube Channel:heart:</a></li>
-            <li><a href="#">分枝二:關於我:penguin:</a></li>
+            <li><a href="https://www.youtube.com/@bearooknight2224/featured">分枝一:Youtube Channel:</a></li>
+            <li><a href="#">分枝二:關於我</a></li>
             <li><a href="#">分枝三:Discord</a></li>
             <li><a href="#">分枝四:Discord</a></li>
             <li><a href="#">分枝五:Discord</a></li>
