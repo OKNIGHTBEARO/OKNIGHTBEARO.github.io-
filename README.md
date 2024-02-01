@@ -10,7 +10,7 @@
 
     <nav>
         <ul>
-            <li><a href="#">主頁</a></li>
+            <li><a href="#">主頁</a>https://www.youtube.com/@bearooknight2224/featured</li>
             <li><a href="#">關於我</a></li>
             <li><a href="#">Discord</a></li>
         </ul>
