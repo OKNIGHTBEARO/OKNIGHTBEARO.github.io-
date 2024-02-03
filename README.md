@@ -10,6 +10,7 @@
 
     <nav>
         <ul>
+            <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-trying-English-version/">分枝零:英文版(ENG version)</a></li>
             <li><a href="https://www.youtube.com/@bearooknight2224/featured">分枝一:Youtube Channel❤️</a></li>
             <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-self-introduction/">分枝二:關於我🐧</a></li>
             <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-life-experience/">分枝三:生命歷程🌲</a></li>
